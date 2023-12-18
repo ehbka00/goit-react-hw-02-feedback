@@ -1,0 +1,22 @@
+.feedback {
+    margin-left: 25px;
+}
+
+.btns {
+    display: flex;
+    justify-content: space-around;
+    width: 200px;
+    padding: 25px 0;
+}
+
+.btn {
+    background: #fff;
+    border: 1px solid #cbc9c9;
+    border-radius: 5px;
+    width: 60px;
+    padding: 3px;  
+
+}
+.btn:hover {
+    cursor: pointer;
+}
